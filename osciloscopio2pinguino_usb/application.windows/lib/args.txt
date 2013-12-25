@@ -1,0 +1,3 @@
+
+osciloscopio2pinguino_usb
+osciloscopio2pinguino_usb.jar,core.jar,opengl.jar,jogl.jar,gluegen-rt.jar,opengl.jar,jogl.jar,gluegen-rt.jar,ch.ntb.usb.jar,pinguino.jar
